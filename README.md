@@ -4,4 +4,4 @@ Formulário simples apenas usando HTML e CSS e sem responsividade, futuramente i
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/70291159/160922378-13d56902-7117-437d-a20a-8bbfaae68016.png)
+![image](https://user-images.githubusercontent.com/70291159/160947316-82a32a7f-83a1-4ce6-b284-627f3f8ad647.png)
