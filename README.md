@@ -1,6 +1,6 @@
 # formularioCadastro
 
-Formulário simples apenas usando HTML e CSS e sem responsividade, futuramente irei trabalhar em uma integração com banco de dados 
+Formulário simples apenas usando HTML/CSS com animação em cada pergunta e sem responsividade, futuramente irei trabalhar em uma integração com banco de dados 
 
 Preview:
 
